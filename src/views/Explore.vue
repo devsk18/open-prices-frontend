@@ -24,9 +24,6 @@
         to="/proofs"
       />
     </v-col>
-  </v-row>
-
-  <v-row>
     <v-col cols="12" sm="6" lg="4">
       <v-card
         :title="$t('Common.TopProducts')"
